@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">- I am a Java Spring developer with a strong passion for studying programming.<br><br>- I enjoy learning about new technologies and improving my skills.<br><br>- Currently, I am expanding my knowledge of microservices and DevOps, aiming to understand how these technologies integrate into modern application development.</p>
+<p align="left">- I'm a Java Spring developer with a strong passion for programming and continuous learning.<br><br>- I enjoy exploring new technologies and constantly strive to improve my skills.
+.<br><br>- Currently, I'm expanding my knowledge in microservices and DevOps, focusing on how these technologies integrate into modern application development.</p>
 
 ###
 
